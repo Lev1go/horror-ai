@@ -1,0 +1,22 @@
+.link {
+    color: red;
+    font-weight: 900;
+    font-size: 40px;
+}
+.link:hover {
+    color: crimson;
+    font-size: 45px;
+    font-weight: lighter;
+}
+.link:focus {
+    color: black;
+    font-size: 25px;
+    font-weight: 400;
+}
+.link-2 {
+    text-decoration: none;
+    color: crimson;
+    font-size: 15px;
+    font-weight: 700;
+    padding-bottom: 35px;
+}
